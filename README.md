@@ -1,6 +1,6 @@
 # Changes to the index.html file
 + Gave the website a new title: Horiseon (renamed from Website)  
-+ Replaced header and footer div classes with HTML tags to comply with standards  
++ Replaced header, footer, content, and benefits div classes with HTML tags to comply with standards  
 + Added a nav tag to replace the generic div that was containing the nav list  
 + Added alt tags to all images, as required  
 + Added additional meta tags to the head for SEO
