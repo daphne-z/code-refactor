@@ -8,3 +8,4 @@
   
 # Changes made to the CSS style sheet
 + Nested the link styling within the nav tags to make sure that the same styling isn’t applied to all links
++ Added flex box to header and top nav
