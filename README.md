@@ -8,6 +8,6 @@
 + Removed div IDs, not referenced in style sheet
   
 # Changes made to the CSS style sheet
-+ Nested the link styling within the nav tags to make sure that the same styling isn’t applied to all links
++ Added link styling to the nav links only (in case more links are added to the paragraph text)
 + Added flex box to header and top nav
 + Consolidated redundant CSS classes
