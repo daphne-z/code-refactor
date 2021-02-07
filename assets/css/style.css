@@ -105,10 +105,10 @@ article {
 }
 
 aside {
-    margin-right: 20px;
-    padding: 20px;
     clear: both;
     float: right;
+    padding: 20px;
+    margin-right: 20px;
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
@@ -164,4 +164,38 @@ footer h2 {
       display: block;
       text-align: left;
     }
+@media screen and (max-width: 1000px){
+    aside {
+        margin-right: 20px;
+        padding: 20px;
+        width: 100%;
+        height: 100%;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        background-color: #2589bd;
+
+        article {
+            width: 100%;
+            height: 100%;
+            display: none;
+            margin: 20px;
+        }
+        .article-section {
+            margin-bottom: 20px;
+            padding: 50px;
+            height: 100%;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            background-color: #0072bb;
+            color: #ffffff;
+        }
+        
+        .article-section img {
+            max-height: 200px;
+        }
+        
+        .article-section h2 {
+            margin-bottom: 20px;
+            font-size: 36px;
+        }
+    }
+}
   }

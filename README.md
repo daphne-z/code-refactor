@@ -12,3 +12,9 @@
 + Consolidated redundant CSS classes
 + Added clear: both and overflow: auto to clear the floats in the article and aside sections
 + Created a responsive top navigation menu that reduces to a hamburger icon on tablet and mobile - code taken from W3Schools tutorial
++ Created a media query that stacks the aticle and aside (vs. putting them side-by-side) in the tablet and mobile screen sizes
+
+# Future changes
+There are a few changes that I'd still like to make to this project that I didn't have time to get to:
++ I'd like to make the hamburger menu functional so that when the menu is clicked, the three nav items appear in a drop down
++ I'd like to redesign the site a little (maybe reduce the nav font size or image sizes) so that the breaking point is close to 900px (larger tablet size) vs 1,000 px
