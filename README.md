@@ -9,7 +9,6 @@
   
 # Changes made to the CSS style sheet
 + Added link styling to the nav links only (in case more links are added to the paragraph text)
-+ Added flex box to header and top nav
 + Consolidated redundant CSS classes
 + Added clear: both and overflow: auto to clear the floats in the article and aside sections
 + Created a responsive top navigation menu that reduces to a hamburger icon on tablet and mobile - code taken from W3Schools tutorial
