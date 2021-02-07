@@ -42,7 +42,7 @@ header .topnav {
     
 }
 
-/* Style the hamburger menu - code adapted from w3schools*/
+/* Style the hamburger menu - code adapted from w3schools tutorial*/
 .topnav a.icon {
     background: #2a607c;
     position: absolute;
@@ -50,7 +50,7 @@ header .topnav {
     top: 0;
   }
 
-  /* Hide the link that should open and close the topnav on small screens - code adapted from w3schools */
+  /* Hide the link that should open and close the topnav on small screens - code adapted from w3schools tutorial */
   .topnav .icon {
     display: none;
   } 
@@ -143,7 +143,7 @@ footer h2 {
     font-size: 20px;
 }
   
-/*media queries - code adapted from w3schools */
+/*media queries - code adapted from w3schools tutorial */
 @media screen and (max-width: 1000px) {
     .topnav a {display: none;}
     .topnav a.icon {
