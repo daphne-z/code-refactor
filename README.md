@@ -18,4 +18,4 @@
 
 # Future changes
 There are a few changes that I'd still like to make to this project that I didn't have time to get to:
-+ I'd like to make the hamburger function properly - at the moment it works but it isn't styled nicely and jumps around on the screen when clicked
++ I'd like to make the hamburger function properly - at the moment it works but it isn't styled nicely and jumps around on the screen when clicked - would like to position it over the site title
