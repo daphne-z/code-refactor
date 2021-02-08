@@ -80,7 +80,7 @@ article {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
+    background-color: #454C6E;
     color: #ffffff;
 }
 
@@ -116,7 +116,7 @@ aside {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    background-color: #ECFCFF;
 }
 
 aside p {
@@ -125,7 +125,7 @@ aside p {
 
 .benefit {
     margin-bottom: 32px;
-    color: #ffffff;
+    color: #000000;
 }
 
 .benefit h2 {
@@ -245,7 +245,7 @@ footer h2 {
         width: 100%;
         height: 100%;
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        background-color: #0072bb;
+        background-color: #454C6E;
         color: #ffffff;
     }
 
@@ -271,7 +271,7 @@ footer h2 {
         float: none;
         width: 100%;
         font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-        background-color: #2589bd;
+        background-color: #ECFCFF;
     }  
     
     .benefit img {
