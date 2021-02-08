@@ -14,9 +14,8 @@
 + Created a smaller screen menu that drops the navigation links below the site title
 + Created a responsive top navigation menu that reduces to a hamburger icon on tablet and mobile - code taken from w3schools tutorial: https://www.w3schools.com/howto/howto_js_topnav_responsive.asp
 + Created media queries that stacks the aticle and aside (vs. putting them side-by-side) in the tablet and mobile screen sizes
++ Made adjustments to the padding and margins, as needed
 
 # Future changes
 There are a few changes that I'd still like to make to this project that I didn't have time to get to:
-+ I'd like to make the hamburger function properly - at the moment it works but it isn't styled nicely
-+ The alignment of the secone image in the article section is off - would like to troubleshoot this some more
-+ Can't figure out how to center the article section in the tablet/view - would like to troubleshoot this some more
++ I'd like to make the hamburger function properly - at the moment it works but it isn't styled nicely and jumps around on the screen when clicked
