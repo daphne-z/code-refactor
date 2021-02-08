@@ -7,7 +7,7 @@
     <meta name="description" content="Hariseon provides SEO, PR, and social media marketing services">
     <meta name="keywords" content="SEO, reputation, social media, marketing">    
     <link rel="stylesheet" href="./assets/css/style.css">
-    <!-- Load an icon library to show a hamburger menu (bars) on small screens -->
+    <!-- Load an icon library to show a hamburger menu (bars) on tablet and mobile -->
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
 
@@ -24,6 +24,17 @@
   <a href="javascript:void(0);" class="icon" onclick="myFunction()">
     <i class="fa fa-bars"></i>
   </a>
+  <!-- Hamburger menu JS - code credit: w3schools -->
+  <script>
+    function myFunction() {
+      var x = document.getElementById("MainNav");
+      if (x.className === "nav") {
+        x.className += " tabletmobile";
+      } else {
+        x.className = "nav";
+      }
+    }
+    </script>
     </header>
     <div class="hero"></div>
     <article>
