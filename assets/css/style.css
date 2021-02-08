@@ -206,7 +206,6 @@ footer h2 {
       float: right;
       display: block;
     }
-
   }
 
 /* tablet and mobile responsive navigation bar - code adapted from w3schools tutorial*/
@@ -234,35 +233,36 @@ footer h2 {
 
 /*<article> tablet and mobile screen sizes*/
 @media screen and (max-width: 1200px) {
-article {
-    clear: both;
-    overflow: auto;
-    float: none;
-    margin-right: 20px;
-    padding: 20px;
-    width: 100%;
-    height: 100%;
-}
+    article {
+        clear: both;
+        overflow: auto;
+        float: none;
+        margin-right: 20px;
+        padding: 20px;
+        width: 100%;
+        height: 100%;
+    }
 
-.article-section {
-    margin-bottom: 20px;
-    margin-right: 0;
-    padding: 20px;
-    width: 100%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
+    .article-section {
+        margin-bottom: 20px;
+        margin-right: 0;
+        padding: 20px;
+        width: 100%;
+        height: 100%;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        background-color: #0072bb;
+        color: #ffffff;
+    }
 
-.article-section img {
-    float: none;
-    max-height: 200px;
-}
+    .article-section img {
+        float: none;
+        max-height: 200px;
+    }
 
-.article-section h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
+    .article-section h2 {
+        margin-bottom: 20px;
+        font-size: 36px;
+    }
 }
 
 /*.article-section p {
