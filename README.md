@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 # Changes to the index.html file
 + Gave the website a new title: Horiseon (renamed from Website)  
 + Replaced header, footer, nav, content, and benefits div classes with HTML tags to comply with semantic web standards    
